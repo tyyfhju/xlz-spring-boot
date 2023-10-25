@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ead4e18e-f588-426e-91c6-e6033a0f090a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../jfy/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xlz" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/utils/CopyUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/utils/SnowFlake.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/XlzApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/config/CorsConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/controller/MessageController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/controller/PhotoController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="mapper" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>myba</find>
+      <find>u</find>
+      <find>sonw</find>
+      <find>snowFlake</find>
+      <find>requestparam</find>
+      <find>lo</find>
+      <find>mybatis</find>
+      <find>username</find>
+      <find>id</find>
+      <find>mapper</find>
+      <find>md5</find>
+      <find>obje</find>
+      <find>student</find>
+      <find>th</find>
+      <find>mail</find>
+      <find>req</find>
+      <find>LoginName</find>
+      <find>userEntityList</find>
+      <find>login_name</find>
+      <find>name</find>
+      <find>login</find>
+      <find>messageBoard</find>
+      <find>postMessage</find>
+      <find>prod</find>
+      <find>mysql</find>
+      <find>1.8</find>
+      <find>pl</find>
+      <find>maven</find>
+      <find>10086</find>
+      <find>MySQL</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/pojp/RequestParam.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/mapper/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/shiro/UserRealm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/utils/UserRegisteAndLogin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/controller/test/TestController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/controller/CommonController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/shiro/ShiroConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/config/WebMvcConfigurer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/config/CorsConfig .java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/controller/Message.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/controller/MessageRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/pojo/UserLogin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/pojo/UserRegister.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/resp/SysUserLoginResp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/resp/CommonResp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/config/CrosConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/controller/PhotoController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/controller/UserControl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/mapper/MessageMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/pojo/ResponseDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/entity/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/entity/Crud.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/entity/Message.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/mapper/CrudMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/controller/MessageController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback-spring.xml.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/utils/SnowFlake.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/entity/qwer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/mapper/qwer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/mapper/QwerMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/service/impl/PhotoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/mapper/PhotoMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/pojo/CommonResp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/utils/CopyUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/config/CorsConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/XlzApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-prod.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-prod.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/zjy/xlz/XlzApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/controller/CrudController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xlz" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xlz" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xlz" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="665" />
+    <option name="y" value="20" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xlz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xlz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xlz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xlz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xlz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xlz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xlz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xlz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xlz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xlz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xlz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xlz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xlz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xlz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="xlz" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1697609120427" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/zjy/xlz/controller" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jfy" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAWORK\xlz\src\main\java\com\zjy\xlz\service\impl" />
+      <recent name="D:\IDEAWORK\xlz\src\main\java\com\zjy\xlz\service" />
+      <recent name="D:\IDEAWORK\xlz\src\main\java\com\zjy\xlz\mapper" />
+      <recent name="D:\IDEAWORK\xlz\src\main\java\com\zjy\xlz\controller" />
+      <recent name="D:\IDEAWORK\xlz\src\main\java\com\zjy\xlz\entity" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.zjy.xlz" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAWORK\xlz\src\main\resources" />
+      <recent name="D:\IDEAWORK\xlz\src\main\java\com\zjy\xlz\entity" />
+      <recent name="D:\IDEAWORK\xlz\src\main\java\com\zjy\xlz\pojo" />
+      <recent name="D:\IDEAWORK\xlz\src\main\java\com\zjy\xlz\controller" />
+      <recent name="D:\IDEAWORK\xlz\src\main\java\com\zjy\xlz\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zjy.xlz.service.impl" />
+      <recent name="com.zjy.xlz.service" />
+      <recent name="com.zjy.xlz.entity" />
+      <recent name="com.zjy.xlz.controller" />
+      <recent name="com.zjy.xlz.mapper" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zjy.xlz.controller" />
+      <recent name="com.zjy.xlz.mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.XlzApplication">
+    <configuration name="XlzApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xlz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zjy.xlz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zjy.xlz" />
+      <option name="MAIN_CLASS_NAME" value="com.zjy.xlz.XlzApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XlzApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xlz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zjy.xlz" />
+      <option name="MAIN_CLASS_NAME" value="com.zjy.xlz.XlzApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XlzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xlz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zjy.xlz.XlzApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.XlzApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.XlzApplicationTests" />
+      <item itemvalue="Spring Boot.XlzApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.XlzApplicationTests" />
+        <item itemvalue="JUnit.XlzApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="showModules" value="false" />
+    <option name="showFilesets" value="false" />
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ead4e18e-f588-426e-91c6-e6033a0f090a" name="Default Changelist" comment="" />
+      <created>1666170609463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666170609463</updated>
+      <workItem from="1666170613660" duration="1761000" />
+      <workItem from="1666241352146" duration="4522000" />
+      <workItem from="1666396480895" duration="1542000" />
+      <workItem from="1666398049474" duration="129000" />
+      <workItem from="1666399454253" duration="5622000" />
+      <workItem from="1666516751955" duration="467000" />
+      <workItem from="1666517252274" duration="2833000" />
+      <workItem from="1666588716455" duration="1250000" />
+      <workItem from="1666674357397" duration="1840000" />
+      <workItem from="1666677675706" duration="3116000" />
+      <workItem from="1666712752872" duration="655000" />
+      <workItem from="1666713612197" duration="346000" />
+      <workItem from="1666745337758" duration="1938000" />
+      <workItem from="1666764215024" duration="622000" />
+      <workItem from="1666772285167" duration="673000" />
+      <workItem from="1666848888265" duration="1241000" />
+      <workItem from="1666859972423" duration="613000" />
+      <workItem from="1666932855663" duration="3447000" />
+      <workItem from="1666939497118" duration="210000" />
+      <workItem from="1667191400382" duration="8832000" />
+      <workItem from="1667280513897" duration="4881000" />
+      <workItem from="1667366197448" duration="1286000" />
+      <workItem from="1667368050699" duration="6581000" />
+      <workItem from="1667453212569" duration="9659000" />
+      <workItem from="1667522225838" duration="9500000" />
+      <workItem from="1667532968209" duration="2057000" />
+      <workItem from="1667535549968" duration="8588000" />
+      <workItem from="1667781507661" duration="24826000" />
+      <workItem from="1667867968557" duration="12121000" />
+      <workItem from="1667955055566" duration="6111000" />
+      <workItem from="1668040842300" duration="17710000" />
+      <workItem from="1668126942445" duration="242000" />
+      <workItem from="1668127234333" duration="4773000" />
+      <workItem from="1668211163037" duration="7415000" />
+      <workItem from="1668220383708" duration="3675000" />
+      <workItem from="1668232265479" duration="7717000" />
+      <workItem from="1668301222473" duration="4608000" />
+      <workItem from="1668352316002" duration="30000" />
+      <workItem from="1668385823348" duration="6076000" />
+      <workItem from="1668472492693" duration="1910000" />
+      <workItem from="1668567951219" duration="1912000" />
+      <workItem from="1668732231760" duration="2519000" />
+      <workItem from="1668815088818" duration="1385000" />
+      <workItem from="1668844113774" duration="1291000" />
+      <workItem from="1668902462919" duration="3138000" />
+      <workItem from="1668990766762" duration="29000" />
+      <workItem from="1669423952622" duration="613000" />
+      <workItem from="1669424765980" duration="1458000" />
+      <workItem from="1669426269354" duration="8000" />
+      <workItem from="1669426603198" duration="8676000" />
+      <workItem from="1669435367651" duration="915000" />
+      <workItem from="1669439595344" duration="1296000" />
+      <workItem from="1669509457203" duration="1963000" />
+      <workItem from="1669547277123" duration="520000" />
+      <workItem from="1669596768016" duration="650000" />
+      <workItem from="1670030961718" duration="6985000" />
+      <workItem from="1670046952770" duration="9998000" />
+      <workItem from="1670114694108" duration="7070000" />
+      <workItem from="1670121887113" duration="689000" />
+      <workItem from="1670167646785" duration="22000" />
+      <workItem from="1671329946943" duration="115000" />
+      <workItem from="1673921619953" duration="4019000" />
+      <workItem from="1674195719347" duration="446000" />
+      <workItem from="1674436054892" duration="6000" />
+      <workItem from="1674884561444" duration="10000" />
+      <workItem from="1675040013399" duration="2000" />
+      <workItem from="1675152780921" duration="2982000" />
+      <workItem from="1675223209797" duration="384000" />
+      <workItem from="1675733644715" duration="2000" />
+      <workItem from="1675733983145" duration="64000" />
+      <workItem from="1677055020353" duration="134000" />
+      <workItem from="1677211381185" duration="15000" />
+      <workItem from="1677310482378" duration="25000" />
+      <workItem from="1677310601666" duration="134000" />
+      <workItem from="1677407188162" duration="12000" />
+      <workItem from="1677475959055" duration="20000" />
+      <workItem from="1677599484325" duration="3000" />
+      <workItem from="1679557893518" duration="158000" />
+      <workItem from="1680396004996" duration="9030000" />
+      <workItem from="1681519097705" duration="11933000" />
+      <workItem from="1681534892038" duration="310000" />
+      <workItem from="1686562959880" duration="803000" />
+      <workItem from="1686640805262" duration="6403000" />
+      <workItem from="1686731906361" duration="5373000" />
+      <workItem from="1686813750850" duration="4060000" />
+      <workItem from="1687156050154" duration="8293000" />
+      <workItem from="1687245276888" duration="7845000" />
+      <workItem from="1687334421597" duration="5404000" />
+      <workItem from="1687355418276" duration="434000" />
+      <workItem from="1687392515752" duration="2391000" />
+      <workItem from="1687395787483" duration="6718000" />
+      <workItem from="1687583641914" duration="6041000" />
+      <workItem from="1691547995028" duration="418000" />
+      <workItem from="1691548457482" duration="345000" />
+      <workItem from="1691548876284" duration="98000" />
+      <workItem from="1693887831558" duration="330000" />
+      <workItem from="1693901838697" duration="1126000" />
+      <workItem from="1693903513959" duration="462000" />
+      <workItem from="1694134837814" duration="41000" />
+      <workItem from="1694934462091" duration="2141000" />
+      <workItem from="1695007050765" duration="36000" />
+      <workItem from="1695084283094" duration="57000" />
+      <workItem from="1696639835643" duration="282000" />
+      <workItem from="1696827225581" duration="295000" />
+      <workItem from="1696913752482" duration="654000" />
+      <workItem from="1696914728994" duration="3762000" />
+      <workItem from="1696919425888" duration="105000" />
+      <workItem from="1696933082478" duration="902000" />
+      <workItem from="1697598719157" duration="15000" />
+      <workItem from="1697601622319" duration="5570000" />
+      <workItem from="1697612803953" duration="879000" />
+      <workItem from="1697854489809" duration="88000" />
+      <workItem from="1697855388080" duration="243000" />
+      <workItem from="1697872320878" duration="624000" />
+      <workItem from="1697875547453" duration="405000" />
+      <workItem from="1697941961373" duration="340000" />
+      <workItem from="1698208447300" duration="872000" />
+      <workItem from="1698216389204" duration="160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="XlzApplicationTests_contextLoads - 2022.11.04 at 11h 37m 12s.xml">
+      <configuration name="XlzApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="XlzApplicationTests_contextLoads - 2022.11.07 at 15h 24m 41s.xml">
+      <configuration name="XlzApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="XlzApplicationTests_contextLoads - 2022.11.10 at 10h 34m 03s.xml">
+      <configuration name="XlzApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="xlzApplicationTests_contextLoads - 2022.11.20 at 08h 07m 40s.xml">
+      <configuration name="xlzApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="XlzApplicationTests_contextLoads - 2022.11.20 at 08h 14m 32s.xml">
+      <configuration name="XlzApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="XlzApplicationTests_contextLoads - 2023.10.18 at 13h 51m 05s.xml">
+      <configuration name="XlzApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="XlzApplicationTests_contextLoads - 2023.10.18 at 13h 53m 55s.xml">
+      <configuration name="XlzApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="XlzApplicationTests_contextLoads - 2023.10.18 at 13h 57m 04s.xml">
+      <configuration name="XlzApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="XlzApplicationTests - 2023.10.18 at 13h 59m 05s.xml">
+      <configuration name="XlzApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="XlzApplicationTests - 2023.10.18 at 14h 03m 51s.xml">
+      <configuration name="XlzApplicationTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="336381000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49716714" visible="true" weight="0.20174263" />
+      <window_info id="Structure" order="1" sideWeight="0.5028329" side_tool="true" weight="0.20174263" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5021216" side_tool="true" weight="0.20844504" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.5021216" side_tool="true" weight="0.20844504" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.32956153" />
+      <window_info anchor="bottom" id="Spring" order="1" sideWeight="0.49932975" weight="0.5184136" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50402147" side_tool="true" weight="0.3753541" />
+      <window_info anchor="bottom" id="Messages" order="5" sideWeight="0.4953083" weight="0.30169973" />
+      <window_info anchor="bottom" id="Java Enterprise" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.28429985" />
+      <window_info anchor="bottom" id="Debug" order="11" sideWeight="0.61863273" weight="0.68458277" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" sideWeight="0.363941" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="15" sideWeight="0.50469166" side_tool="true" weight="0.9320113" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" show_stripe_button="false" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.28284183" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info active="true" anchor="right" id="Database" order="8" visible="true" weight="0.21179625" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$bendi$/org/springframework/spring-webmvc/5.3.23/spring-webmvc-5.3.23-sources.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="119" column="17" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$bendi$/org/springframework/data/spring-data-jpa/2.7.3/spring-data-jpa-2.7.3.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/entity/qwer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/mapper/QwerMapper.java" />
+    <entry file="jar://$bendi$/org/springframework/spring-beans/5.3.23/spring-beans-5.3.23-sources.jar!/org/springframework/beans/BeanUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="42" column="44" lean-forward="true" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.zjy:xlz:0.0.1-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.zjy:xlz:0.0.1-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.zjy:xlz:0.0.1-SNAPSHOT</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter:jar:2.7.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter:jar:2.7.4/org.springframework.boot:spring-boot:jar:2.7.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter:jar:2.7.4/org.springframework.boot:spring-boot-starter-logging:jar:2.7.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter:jar:2.7.4/org.springframework.boot:spring-boot-starter-logging:jar:2.7.4/ch.qos.logback:logback-classic:jar:1.2.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter:jar:2.7.4/org.springframework.boot:spring-boot-starter-logging:jar:2.7.4/ch.qos.logback:logback-classic:jar:1.2.11/ch.qos.logback:logback-core:jar:1.2.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter:jar:2.7.4/org.springframework.boot:spring-boot-starter-logging:jar:2.7.4/org.apache.logging.log4j:log4j-to-slf4j:jar:2.17.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter:jar:2.7.4/org.springframework.boot:spring-boot-starter-logging:jar:2.7.4/org.apache.logging.log4j:log4j-to-slf4j:jar:2.17.2/org.apache.logging.log4j:log4j-api:jar:2.17.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter:jar:2.7.4/org.springframework.boot:spring-boot-starter-logging:jar:2.7.4/org.slf4j:jul-to-slf4j:jar:1.7.36</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter:jar:2.7.4/jakarta.annotation:jakarta.annotation-api:jar:1.3.5</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter:jar:2.7.4/org.yaml:snakeyaml:jar:1.30</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter-json:jar:2.7.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter-json:jar:2.7.4/com.fasterxml.jackson.core:jackson-databind:jar:2.13.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter-json:jar:2.7.4/com.fasterxml.jackson.core:jackson-databind:jar:2.13.4/com.fasterxml.jackson.core:jackson-annotations:jar:2.13.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter-json:jar:2.7.4/com.fasterxml.jackson.core:jackson-databind:jar:2.13.4/com.fasterxml.jackson.core:jackson-core:jar:2.13.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter-json:jar:2.7.4/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.13.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter-json:jar:2.7.4/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.13.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter-json:jar:2.7.4/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.13.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter-tomcat:jar:2.7.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter-tomcat:jar:2.7.4/org.apache.tomcat.embed:tomcat-embed-core:jar:9.0.65</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter-tomcat:jar:2.7.4/org.apache.tomcat.embed:tomcat-embed-el:jar:9.0.65</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework.boot:spring-boot-starter-tomcat:jar:2.7.4/org.apache.tomcat.embed:tomcat-embed-websocket:jar:9.0.65</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework:spring-web:jar:5.3.23</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework:spring-web:jar:5.3.23/org.springframework:spring-beans:jar:5.3.23</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework:spring-webmvc:jar:5.3.23</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework:spring-webmvc:jar:5.3.23/org.springframework:spring-aop:jar:5.3.23</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework:spring-webmvc:jar:5.3.23/org.springframework:spring-context:jar:5.3.23</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.7.4/org.springframework:spring-webmvc:jar:5.3.23/org.springframework:spring-expression:jar:5.3.23</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:8.0.30</node>
+            <node x="" y="">org.projectlombok:lombok:jar:1.18.24</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-mail:jar:2.7.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-mail:jar:2.7.4/org.springframework:spring-context-support:jar:5.3.23</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-mail:jar:2.7.4/com.sun.mail:jakarta.mail:jar:1.6.7</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-mail:jar:2.7.4/com.sun.mail:jakarta.mail:jar:1.6.7/com.sun.activation:jakarta.activation:jar:1.2.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.springframework.boot:spring-boot-starter-aop:jar:2.7.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.springframework.boot:spring-boot-starter-aop:jar:2.7.4/org.aspectj:aspectjweaver:jar:1.9.7</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.springframework.boot:spring-boot-starter-jdbc:jar:2.7.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.springframework.boot:spring-boot-starter-jdbc:jar:2.7.4/com.zaxxer:HikariCP:jar:4.0.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.springframework.boot:spring-boot-starter-jdbc:jar:2.7.4/org.springframework:spring-jdbc:jar:5.3.23</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/jakarta.transaction:jakarta.transaction-api:jar:1.3.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/jakarta.persistence:jakarta.persistence-api:jar:2.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.hibernate:hibernate-core:jar:5.6.11.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.hibernate:hibernate-core:jar:5.6.11.Final/org.jboss.logging:jboss-logging:jar:3.4.3.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.hibernate:hibernate-core:jar:5.6.11.Final/net.bytebuddy:byte-buddy:jar:1.12.17</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.hibernate:hibernate-core:jar:5.6.11.Final/antlr:antlr:jar:2.7.7</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.hibernate:hibernate-core:jar:5.6.11.Final/org.jboss:jandex:jar:2.4.2.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.hibernate:hibernate-core:jar:5.6.11.Final/com.fasterxml:classmate:jar:1.5.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.hibernate:hibernate-core:jar:5.6.11.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.1.2.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.hibernate:hibernate-core:jar:5.6.11.Final/org.glassfish.jaxb:jaxb-runtime:jar:2.3.6</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.hibernate:hibernate-core:jar:5.6.11.Final/org.glassfish.jaxb:jaxb-runtime:jar:2.3.6/org.glassfish.jaxb:txw2:jar:2.3.6</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.hibernate:hibernate-core:jar:5.6.11.Final/org.glassfish.jaxb:jaxb-runtime:jar:2.3.6/com.sun.istack:istack-commons-runtime:jar:3.0.12</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.springframework.data:spring-data-jpa:jar:2.7.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.springframework.data:spring-data-jpa:jar:2.7.3/org.springframework.data:spring-data-commons:jar:2.7.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.springframework.data:spring-data-jpa:jar:2.7.3/org.springframework:spring-orm:jar:5.3.23</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.springframework.data:spring-data-jpa:jar:2.7.3/org.springframework:spring-tx:jar:5.3.23</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.springframework.data:spring-data-jpa:jar:2.7.3/org.slf4j:slf4j-api:jar:1.7.36</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.7.4/org.springframework:spring-aspects:jar:5.3.23</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.springframework.boot:spring-boot-test:jar:2.7.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.7.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/com.jayway.jsonpath:json-path:jar:2.7.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/com.jayway.jsonpath:json-path:jar:2.7.0/net.minidev:json-smart:jar:2.4.8</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/com.jayway.jsonpath:json-path:jar:2.7.0/net.minidev:json-smart:jar:2.4.8/net.minidev:accessors-smart:jar:2.4.8</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/com.jayway.jsonpath:json-path:jar:2.7.0/net.minidev:json-smart:jar:2.4.8/net.minidev:accessors-smart:jar:2.4.8/org.ow2.asm:asm:jar:9.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.3/jakarta.activation:jakarta.activation-api:jar:1.2.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.assertj:assertj-core:jar:3.22.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.hamcrest:hamcrest:jar:2.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.junit.jupiter:junit-jupiter:jar:5.8.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.junit.jupiter:junit-jupiter:jar:5.8.2/org.junit.jupiter:junit-jupiter-api:jar:5.8.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.junit.jupiter:junit-jupiter:jar:5.8.2/org.junit.jupiter:junit-jupiter-api:jar:5.8.2/org.opentest4j:opentest4j:jar:1.2.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.junit.jupiter:junit-jupiter:jar:5.8.2/org.junit.jupiter:junit-jupiter-api:jar:5.8.2/org.junit.platform:junit-platform-commons:jar:1.8.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.junit.jupiter:junit-jupiter:jar:5.8.2/org.junit.jupiter:junit-jupiter-api:jar:5.8.2/org.apiguardian:apiguardian-api:jar:1.1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.junit.jupiter:junit-jupiter:jar:5.8.2/org.junit.jupiter:junit-jupiter-params:jar:5.8.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.junit.jupiter:junit-jupiter:jar:5.8.2/org.junit.jupiter:junit-jupiter-engine:jar:5.8.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.junit.jupiter:junit-jupiter:jar:5.8.2/org.junit.jupiter:junit-jupiter-engine:jar:5.8.2/org.junit.platform:junit-platform-engine:jar:1.8.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.mockito:mockito-core:jar:4.5.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.mockito:mockito-core:jar:4.5.1/net.bytebuddy:byte-buddy-agent:jar:1.12.17</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.mockito:mockito-core:jar:4.5.1/org.objenesis:objenesis:jar:3.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.mockito:mockito-junit-jupiter:jar:4.5.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.skyscreamer:jsonassert:jar:1.5.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.skyscreamer:jsonassert:jar:1.5.1/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.springframework:spring-core:jar:5.3.23</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.springframework:spring-core:jar:5.3.23/org.springframework:spring-jcl:jar:5.3.23</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.springframework:spring-test:jar:5.3.23</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.7.4/org.xmlunit:xmlunit-core:jar:2.9.0</node>
+            <node x="" y="">com.alibaba:druid:jar:1.1.0</node>
+            <node x="" y="">com.alibaba:druid:jar:1.1.0/com.alibaba:jconsole:jar:1.8.0</node>
+            <node x="" y="">com.alibaba:druid:jar:1.1.0/com.alibaba:tools:jar:1.8.0</node>
+            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.4.2</node>
+            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.4.2/com.baomidou:mybatis-plus:jar:3.4.2</node>
+            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.4.2/com.baomidou:mybatis-plus:jar:3.4.2/com.baomidou:mybatis-plus-extension:jar:3.4.2</node>
+            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.4.2/com.baomidou:mybatis-plus:jar:3.4.2/com.baomidou:mybatis-plus-extension:jar:3.4.2/com.baomidou:mybatis-plus-core:jar:3.4.2</node>
+            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.4.2/com.baomidou:mybatis-plus:jar:3.4.2/com.baomidou:mybatis-plus-extension:jar:3.4.2/com.baomidou:mybatis-plus-core:jar:3.4.2/com.baomidou:mybatis-plus-annotation:jar:3.4.2</node>
+            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.4.2/com.baomidou:mybatis-plus:jar:3.4.2/com.baomidou:mybatis-plus-extension:jar:3.4.2/com.baomidou:mybatis-plus-core:jar:3.4.2/com.github.jsqlparser:jsqlparser:jar:4.0</node>
+            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.4.2/com.baomidou:mybatis-plus:jar:3.4.2/com.baomidou:mybatis-plus-extension:jar:3.4.2/com.baomidou:mybatis-plus-core:jar:3.4.2/org.mybatis:mybatis:jar:3.5.6</node>
+            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.4.2/com.baomidou:mybatis-plus:jar:3.4.2/com.baomidou:mybatis-plus-extension:jar:3.4.2/org.mybatis:mybatis-spring:jar:2.0.5</node>
+            <node x="" y="">com.baomidou:mybatis-plus-boot-starter:jar:3.4.2/org.springframework.boot:spring-boot-autoconfigure:jar:2.7.4</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.11360614566405673" x="3375.0" y="635.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/26.png" />
+    <entry file="jar://D:/java/jdk1.8.0_171/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlz.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="34" column="52" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$bendi$/org/springframework/boot/spring-boot-dependencies/2.7.4/spring-boot-dependencies-2.7.4.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="2032" column="18" lean-forward="true" selection-start-line="2032" selection-start-column="18" selection-end-line="2032" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/java/com/zjy/xlz/XlzApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/main/java/com/zjy/xlz/XlzApplication.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/mapper/MessageMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/7.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-prod.yml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-prod.properties" />
+    <entry file="jar://$bendi$/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.jar!/com/mysql/cj/jdbc/NonRegisteringDriver.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://0bf0ad90-d744-4dc1-ad28-6c2737e8c83b/schema/travel/table/message">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$bendi$/com/baomidou/mybatis-plus-boot-starter/3.4.2/mybatis-plus-boot-starter-3.4.2.jar!/com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$bendi$/org/springframework/spring-core/5.3.23/spring-core-5.3.23-sources.jar!/org/springframework/core/convert/ConversionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zjy/xlz/XlzApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/entity/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/entity/Photo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/mapper/CrudMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/mapper/PhotoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/pojo/CommonResp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/pojo/RequestParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/pojo/ResponseDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/service/impl/PhotoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/controller/CrudController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/service/PhotoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://0bf0ad90-d744-4dc1-ad28-6c2737e8c83b/schema/travel/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://0bf0ad90-d744-4dc1-ad28-6c2737e8c83b/schema/travel/table/photo">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/utils/CopyUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/utils/SnowFlake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/XlzApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/config/CorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/controller/MessageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zjy/xlz/controller/PhotoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>xlz:Web exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>xlz</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
